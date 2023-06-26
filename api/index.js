@@ -131,20 +131,20 @@ app.get('/api/recipes/:idOrSlug', (req, res) => {
  * @tags login
  * @param {Credentials} request.body.required - credentials - application/json
  * @return {AuthUser} 200 - success response - application/json
- * @example request - example bouclierman
+ * @example request - example Bob
  * {
- *   "email": "bouclierman@herocorp.io",
- *   "password": "jennifer"
+ *   "email": "bob@mail.io",
+ *   "password": "bobo"
  * }
- * @example request - example acidman
+ * @example request - example Alice
  * {
- *   "email": "acidman@herocorp.io",
- *   "password": "fructis"
+ *   "email": "alice@mail.io",
+ *   "password": "al6"
  * }
- * @example request - example captain.sportsextremes
+ * @example request - example Dave
  * {
- *   "email": "captain.sportsextremes@herocorp.io",
- *   "password": "pingpong"
+ *   "email": "dave@mail.io",
+ *   "password": "davy"
  * }
  */
 app.post('/api/login', (req, res) => {

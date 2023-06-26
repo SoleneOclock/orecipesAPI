@@ -2,27 +2,27 @@ module.exports = {
   users: [
     {
       id: 32,
-      password: 'jennifer',
-      username: 'John',
+      password: 'bobo',
+      username: '.o0X0o.BoB.o0X0o.',
       color: '#c23616',
       favorites: [21453, 462],
-      email: 'bouclierman@herocorp.io',
+      email: 'bob@mail.io',
     },
     {
       id: 55,
-      password: 'fructis',
-      username: 'Burt',
-      color: '#009432',
+      password: 'al6',
+      username: '•°¯`•• AliCe ••´¯°•',
+      color: '#f0f',
       favorites: [8965, 11],
-      email: 'acidman@herocorp.io',
+      email: 'alice@mail.io',
     },
     {
       id: 123,
-      password: 'pingpong',
-      username: 'Karin',
-      color: '#f0f',
+      password: 'davy',
+      username: ']|I{•------» DaVe «------•}I|[',
+      color: '#009432',
       favorites: [8762],
-      email: 'captain.sportsextremes@herocorp.io',
+      email: 'dave@mail.io',
     }, 
   ]
 };
