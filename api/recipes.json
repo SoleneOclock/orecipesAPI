@@ -1,410 +1,435 @@
 [
   {
     "id": 12345,
-    "title": "Crêpes raffinées",
-    "slug": "crepes-raffinees",
-    "thumbnail": "https://images.pexels.com/photos/53483/strawberries-crepe-dessert-sweet-53483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "author": "John Deuf",
+    "title": "Cookies au beurre de cacahuète",
+    "slug": "cookies-beurre-de-cacahuete",
+    "thumbnail": "https://www.sunny-delices.fr/wp-content/uploads/2022/09/cookies-beurre-cacahouettes-sans-gluten-680x451.jpg",
+    "author": "Solene",
     "difficulty": "Facile",
-    "description": "Simples mais toujours délicieuses",
+    "description": "Pour 10 cookies",
     "ingredients": [
       {
         "id": 1,
-        "quantity": 375,
+        "quantity": 120,
         "unit": "g",
-        "name": "de farine tamisée"
+        "name": "sucre roux"
       },
       {
         "id": 2,
-        "quantity": 3,
-        "unit": "pincées",
-        "name": "de sel"
-      },
-      {
-        "id": 15,
-        "quantity": 50,
+        "quantity": 120,
         "unit": "g",
-        "name": "de sucre en poudre"
-      },
-      {
-        "id": 28,
-        "quantity": 6,
-        "unit": "",
-        "name": "oeufs entiers"
-      },
-      {
-        "id": 4,
-        "quantity": 80,
-        "unit": "g",
-        "name": "de beurre fondu"
+        "name": "beurre de cacahuètes crunchy"
       },
       {
         "id": 3,
-        "quantity": 1,
-        "unit": "L",
-        "name": "de lait"
+        "quantity": 120,
+        "unit": "g",
+        "name": "farine de riz"
       },
       {
-        "id": 845,
-        "quantity": 3,
-        "unit": "cuillerées à soupe",
-        "name": "de rhum ambré ou vieux"
+        "id": 4,
+        "quantity": 1,
+        "unit": "",
+        "name": "oeuf"
+      },
+      {
+        "id": 5,
+        "quantity": 0.5,
+        "unit": "cc",
+        "name": "bicarbonate"
+      },
+      {
+        "id": 6,
+        "quantity": 1,
+        "unit": "pincée",
+        "name": "sel"
+      },
+      {
+        "id": 7,
+        "quantity": 50,
+        "unit": "g",
+        "name": "pépites de chocolat"
       }
     ],
     "instructions": [
-      "Tamiser farine",
-      "Rajouter le sucre et le sel",
-      "Rajouter les oeufs tout en mélangeant",
-      "Rajouter le beurre fondu tout en mélangeant",
-      "Rajouter le lait petit à petit tout en mélangeant",
-      "Rajouter le rhum  tout en mélangeant. À ce stade si vous fatiguez, n'hésitez pas à vous en servir un petit verre avant d'attaquer la suite.",
-      "Laisser reposer une heure",
-      "Faire cuire à la poele ou à la machine à crêpes.",
-      "Dégustez !"
+      "Mélangez au fouet l’oeuf, le sucre et le beurre de cacahuètes.",
+      "Ajoutez la farine, le bicarbonate et le sel, mélangez juste assez pour obtenir une pâte malléable.",
+      "Incorporez les pépites de chocolat.",
+      "Formez et déposez des boules de pâte sur une plaque recouverte de papier cuisson. ",
+      "Enfournez à 180°C pour 10 à 12 minutes de cuisson.",
+      "Laissez refroidir avant de les décoller de la plaque."
     ]
   },
   {
     "id": 8965,
-    "title": "Pizza Margherita",
-    "slug": "pizza-margherita",
-    "thumbnail": "https://images.pexels.com/photos/263041/pexels-photo-263041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "author": "Silvia Dital",
-    "difficulty": "Moyen",
-    "description": "Dans la pure tradition italienne",
+    "title": "Macaron framboisier",
+    "slug": "macaron-framboisier",
+    "thumbnail": "http://sunnybakery.fr/wp-content/uploads/2020/09/gateau-entremets-macaron-framboises.jpg",
+    "author": "Solène",
+    "difficulty": "Difficile",
+    "description": "Pour 8 personnes",
     "ingredients": [
       {
-        "id": 1,
-        "quantity": 500,
-        "unit": "g",
-        "name": "de farine T45"
+        "id": 8,
+        "quantity": 2,
+        "unit": "",
+        "name": "blanc d'oeuf"
       },
       {
-        "id": 3,
-        "quantity": 250,
-        "unit": "cl",
-        "name": "d'eau"
+        "id": 9,
+        "quantity": 100,
+        "unit": "g",
+        "name": "poudre d'amande"
       },
       {
-        "id": 131,
-        "quantity": 11,
+        "id": 10,
+        "quantity": 100,
         "unit": "g",
-        "name": "de levure sèche de boulanger"
+        "name": "sucre glaçe"
+      },
+      {
+        "id": 11,
+        "quantity": 100,
+        "unit": "g",
+        "name": "sucre en poudre"
       },
       {
         "id": 12,
-        "quantity": 4,
-        "unit": "c à s",
-        "name": "d'huile d'olive vierge-extra"
-      },
-      {
-        "id": 143,
-        "quantity": "1/2",
-        "unit": "c à c",
-        "name": "de sucre"
-      },
-      {
-        "id": 4,
-        "quantity": "1/4",
-        "unit": "c à c",
-        "name": "de sel"
-      },
-      {
-        "id": 78,
-        "quantity": 800,
-        "unit": "g",
-        "name": "de pulpe de tomates"
-      },
-      {
-        "id": 97,
-        "quantity": 400,
-        "unit": "g",
-        "name": "de mozzarella"
+        "quantity": 35,
+        "unit": "ml",
+        "name": "eau"
       }
     ],
     "instructions": [
-      "La pâte :",
-      "Verser la farine dans un saladier, ajouter le sel et mélanger",
-      "Ajouter la levure sèche, le sucre, le sel et mélanger",
-      "Creuser un puit au centre, y verser l’eau",
-      "Petit à petit, à l’aide d’une fourchette, y incorporer la farine",
-      "Pétrir ensuite à la main ou dans un robot-pétrisseur, ajouter l’huile puis continuer à pétrir jusqu’à obtenir une pâte lisse",
-      "La façonner en boule, la mettre dans un grand saladier et couvrir avec un linge propre",
-      "Laisser la pâte lever pendant 2 heures (Elle doit doubler de volume)",
-      "Dégazer la pâte sur un plan de travail, la pétrir rapidement à nouveau, puis l’étaler dans un moule à pizza ou sur une plaque de cuisson",
-      "Etaler la pâte plus ou moins fine, selon l’épaisseur que vous voulez donner à la pizza",
-      "Etaler si possible à la main, la pâte reste plus aérienne",
-      "Faire lever la pâte étalée dans le moule pendant encore 1 heure",
-      "La garniture :",
-      "Ajouter la sauce tomate en la répartissant avec une petite louche, en laissant 1,5 cm de bord libre tout autour de la pâte.",
-      "Ajouter la mozzarella préalablement coupée en dés (ou en tranches) et dégorgée",
-      "La cuisson :",
-      "Faire cuire la pizza à 210°C pendant 10 à 15 minutes",
-      "Dès la sortie du four y ajouter quelques feuille de basilic frais et servir",
-      "Dégustez !"
+      "Dans une petite casserole faites chauffer le sucre en poudre avec l’eau. Surveillez la température avec un thermomètre de cuisson.",
+      "En parallèle, montez un blanc d’œuf en neige pas trop ferme.",
+      "Dès que le sirop de sucre est à 118°C, versez le dans le blanc en neige, continuez de fouetter pendant encore 5min pour que la meringue refroidisse.",
+      "Mélangez l'autre blanc d'oeuf avec le sucre glace et la poudre d'amande",
+      "Incorporez délicatement et en plusieurs fois la meringue et 1 pincée de colorant rose en poudre.",
+      "Transvasez la pâte dans une poche à douille.",
+      "Sur une plaque à patisserie recouverte de papier cuisson, pochez 2 cercles de 20cm de diamètre.",
+      "Enfournez la plaque à 140°C pour 20 minutes de cuisson.",
+      "Garnissez les coques de framboises et de chantilly ou idéalement de crème au beurre à la meringue italienne."
     ]
   },
   {
     "id": 21453,
-    "title": "Hamburger Au Paprika",
-    "slug": "hamburger-au-paprika",
-    "thumbnail": "https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "author": "Howard Burggie",
+    "title": "Tarte au citron meringuée",
+    "slug": "tarte-au-citron-meringuee",
+    "thumbnail": "https://www.sunny-delices.fr/wp-content/uploads/2020/04/tarte-au-citron-meringuee-sans-gluten-680x453.jpg",
+    "author": "Solène",
     "difficulty": "Moyen",
-    "description": "Pour 2 personnes",
+    "description": "Pour 8 à 10 personnes",
     "ingredients": [
       {
-        "id": 189,
-        "quantity": 1,
-        "unit": "",
-        "name": "pain à burger"
-      },
-      {
-        "id": 83,
-        "quantity": 2,
-        "unit": "pincées",
-        "name": "de paprika"
-      },
-      {
-        "id": 12,
-        "quantity": 1,
-        "unit": "",
-        "name": "oignon"
-      },
-      {
         "id": 13,
-        "quantity": 1,
-        "unit": "",
-        "name": "oignon rouge"
+        "quantity": 200,
+        "unit": "g",
+        "name": "farine de riz complet"
       },
       {
-        "id": 4,
+        "id": 14,
+        "quantity": 50,
+        "unit": "g",
+        "name": "poudre d'amande"
+      },
+      {
+        "id": 15,
+        "quantity": 100,
+        "unit": "g",
+        "name": "beurre"
+      },
+      {
+        "id": 16,
+        "quantity": 50,
+        "unit": "g",
+        "name": "sucre de canne"
+      },
+      {
+        "id": 17,
+        "quantity": 1,
+        "unit": "",
+        "name": "oeuf"
+      },
+      {
+        "id": 18,
+        "quantity": 4,
+        "unit": "",
+        "name": "citrons"
+      },
+      {
+        "id": 19,
+        "quantity": 100,
+        "unit": "g",
+        "name": "sucre"
+      },
+      {
+        "id": 20,
+        "quantity": 80,
+        "unit": "g",
+        "name": "beurre"
+      },
+      {
+        "id": 21,
+        "quantity": 2,
+        "unit": "",
+        "name": "oeufs entiers"
+      },
+      {
+        "id": 22,
+        "quantity": 2,
+        "unit": "",
+        "name": "jaunes d'oeufs"
+      },
+      {
+        "id": 23,
+        "quantity": 1,
+        "unit": "cs",
+        "name": "maïzéna"
+      },
+      {
+        "id": 24,
+        "quantity": 2,
+        "unit": "",
+        "name": "blancs d'oeufs pour la meringue"
+      },
+      {
+        "id": 25,
         "quantity": 150,
         "unit": "g",
-        "name": "de viande hachée"
+        "name": "sucre en poudre pour la meringue"
       },
       {
-        "id": 3,
-        "quantity": 2,
-        "unit": "feuilles",
-        "name": "de laitue"
-      },
-      {
-        "id": 8,
-        "quantity": 1,
-        "unit": "",
-        "name": "tomate"
-      },
-      {
-        "id": 154,
-        "quantity": 40,
-        "unit": "g",
-        "name": "chedar"
-      },
-      {
-        "id": 73,
-        "quantity": 3,
-        "unit": "tranches",
-        "name": "de cornichon"
+        "id": 26,
+        "quantity": 60,
+        "unit": "ml",
+        "name": "eau pour la meringue"
       }
     ],
     "instructions": [
-      "Emincer l'oignon",
-      "Trancher finement l'oignon rouge",
-      "Laver et essorer la laitue",
-      "Trancher la tomate",
-      "Faire revenir l'oignon dans du beurre, jusqu'à ce qu'il soit doré",
-      "Mettre au four le pain coupé en deux.",
-      "Mélanger la viande hachée avec le paprika et les oignons. ",
-      "Faire revenir le mélange 4 à 5 minutes dans une poêle.",
-      "Placer la viande dans le pain, sorti du four.",
-      "Dresser avec la laitue, la tomate, le fromage, le cornichon",
-      "Si vous le souhaitez, vous pouvez un peu de ketchup et du tabasco",
+      "La pâte :",
+      "Mélangez la farine, la poudre d’amande, le sucre, le sel et le beurre coupé en petits morceaux.",
+      "Effritez le mélange entre les doigts jusqu’à obtenir une texture sableuse.",
+      "Ajoutez l’œuf et travaillez rapidement la pâte avec les mains jusqu’à formez une boule compacte et homogène.",
+      "Enveloppez la pâte dans du film alimentaire et laissez la reposer au frigo environ 1h.",
+      "Étalez la pâte puis déposez dans un moule à tarte.",
+      "Faîtes cuire 20 à 25 minutes à 180° (jusqu’à ce que la pâte colore légèrement).",
+      "La crème citron :",
+      "Mélangez dans une casserole la fécule de maïs, les œufs entiers, les jaunes, le jus et les zeste des citron et le sucre.",
+      "Faites chauffer à feu vif en mélangeant avec un fouet jusqu’à ce que le mélange épaississe.",
+      "Laissez la crème tiédir puis incorporez le beurre mou coupé en morceaux.",
+      "Nappez le fond de tarte avec la crème au citron.",
+      "La meringue italienne :",
+      "Dans une petite casserole faites chauffer le sucre en poudre avec l’eau. Surveillez la température avec un thermomètre de cuisson.",
+      "En parallèle, montez les blancs d’œuf en neige pas trop ferme.",
+      "Dès que le sirop de sucre est à 118°C, versez le dans les blancs en neige, continuez de fouetter pendant encore 5min pour que la meringue refroidisse.",
+      "Répartissez la meringue sur la tarte à la spatule ou à la poche à douille.",
+      "Décorez éventuellement avec quelques zestes de citron, des fleurs en sucre, des macarons…",
       "Dégustez !"
     ]
   },
   {
     "id": 8762,
-    "title": "Tagliatelles au poulet braisé",
-    "slug": "tagliatelles-au-poulet-braise",
-    "thumbnail": "https://images.pexels.com/photos/2703468/pexels-photo-2703468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "author": "Léo Dalmi",
+    "title": "Amandier",
+    "slug": "amandier",
+    "thumbnail": "https://www.sunny-delices.fr/wp-content/uploads/2020/11/amandier-sans-gluten.jpg",
+    "author": "Solène",
     "difficulty": "Facile",
     "description": "Pour 6 personnes",
     "ingredients": [
       {
-        "id": 765,
-        "quantity": 500,
+        "id": 27,
+        "quantity": 100,
         "unit": "g",
-        "name": "Tagliatelles (ou fusillis)"
+        "name": "sucre"
       },
       {
-        "id": 823,
-        "quantity": 2,
+        "id": 28,
+        "quantity": 3,
         "unit": "",
-        "name": "oignons jaunes"
+        "name": "oeufs"
       },
       {
-        "id": 12,
-        "quantity": 60,
-        "unit": "cl",
-        "name": "de crème fraîche semi-épaisse"
+        "id": 29,
+        "quantity": 20,
+        "unit": "g",
+        "name": "miel"
       },
       {
-        "id": 962,
-        "quantity": 1,
-        "unit": "kg",
-        "name": "de blanc de poulet"
+        "id": 30,
+        "quantity": 150,
+        "unit": "g",
+        "name": "poudre d'amande"
       },
       {
-        "id": 42,
-        "quantity": 5,
-        "unit": "cl",
-        "name": "de sauce Worcestershire"
+        "id": 31,
+        "quantity": 0.5,
+        "unit": "cc",
+        "name": "arome d'amande amère'"
       },
       {
-        "id": 3,
-        "quantity": 1,
-        "unit": "c à c",
-        "name": "de poivre 5 baies"
+        "id": 32,
+        "quantity": 10,
+        "unit": "g",
+        "name": "arome fleur d'oranger"
       },
       {
-        "id": 8,
-        "quantity": 4,
-        "unit": "pincées",
-        "name": "d'origan sec"
+        "id": 33,
+        "quantity": "zeste",
+        "unit": "",
+        "name": "d'une orange"
       },
       {
-        "id": 154,
-        "quantity": 1,
-        "unit": "c à c",
-        "name": "de sucre semoule"
+        "id": 34,
+        "quantity": 70,
+        "unit": "g",
+        "name": "beurre demi-sel"
       },
       {
-        "id": 73,
-        "quantity": 1,
-        "unit": "c à s",
-        "name": "d'huile d'olives"
+        "id": 35,
+        "quantity": 50,
+        "unit": "g",
+        "name": "mascarpone"
+      },
+      {
+        "id": 36,
+        "quantity": 40,
+        "unit": "g",
+        "name": "amandes effilées"
       }
     ],
     "instructions": [
-      "Mixer les oignons",
-      "Dans une poêle, faire revenir les oignons dans l'huile d'olives sans les dorer",
-      "Dès que les oignons sont translucides, ajouter les morceaux de poulet et le poivre fraichement moulu",
-      "Après 10 minutes à feu moyen, ajouter la sauce Worcestershire",
-      "Remuer régulièrement sur feu doux environ 10 minutes, si besoin ajouter un peu d'eau pour éviter le dessèchement",
-      "Mettre à bouillir de l'eau pour les pâtes",
-      "Verser la crème dans la poêle, mélanger",
-      "Ajouter la c à c de sucre",
-      "Mélanger encore, ajouter l'origan et laisser mijoter doucement à feu très doux le temps de la cuisson des pâtes",
-      "Déposer des pâtes dans chaque assiette puis par dessus de la sauce au poulet",
-      "Servir aussitôt"
+      "Mélangez les oeufs avec le sucre et le miel. ",
+      "Ajoutez la poudre d’amande, le zeste d’orange, la fleur d’oranger et l’amande amère.",
+      "Ecrasez le beurre à la spatule jusqu’à ce qu’il ai une consistance crémeuse (beurre pommade).",
+      "Mélangez la mascarpone avec le beurre pommade et ajoutez à la préparation.",
+      "Mélangez bien la pâte au fouet à main puis versez dans un moule beurré.",
+      "Recouvrez la surface d’amandes effilées.",
+      "Enfournez à 150°C pour 45 minutes de cuisson."
     ]
   },
   {
     "id": 462,
-    "title": "Velouté de potiron",
-    "slug": "veloute-de-potiron",
-    "thumbnail": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "author": "Marie Massart",
+    "title": "Fondant au chocolat sans gluten",
+    "slug": "fondant-au-chocolat-sans-gluten",
+    "thumbnail": "https://www.sunny-delices.fr/wp-content/uploads/2015/06/fondant-chocolat-sans-gluten.jpg",
+    "author": "Solène",
     "difficulty": "Facile",
-    "description": "Pour 3 personnes",
+    "description": "Pour 8 personnes",
     "ingredients": [
       {
-        "id": 7,
-        "quantity": 4,
-        "unit": "gousses",
-        "name": "d'ail"
-      },
-      {
-        "id": 12,
-        "quantity": 30,
-        "unit": "cl",
-        "name": "de crème fraîche semi-épaisse"
-      },
-      {
-        "id": 123,
-        "quantity": 25,
-        "unit": "cl",
-        "name": "d'eau"
-      },
-      {
-        "id": 962,
-        "quantity": 1,
-        "unit": "morceau",
-        "name": "de potiron"
-      },
-      {
-        "id": 73,
-        "quantity": 2,
-        "unit": "c à s",
-        "name": "d'huile d'olive"
-      },
-      {
-        "id": 733,
-        "quantity": 3,
-        "unit": "feuilles",
-        "name": "de basilic frais"
-      }
-    ],
-    "instructions": [
-      "Peler le potiron, couper en morceau et laver",
-      "Peler les gousses d'ail",
-      "Faire revenir les gousses dans l'huile d'olive",
-      "Ajouter les morceaux de potiron",
-      "Faire revenir pendant quelques minutes pour saisir",
-      "Ajouter l'eau, la crème, faire cuire à feu doux",
-      "Mixer",
-      "Ajouter le basilic ciselé au moment de servir",
-      "Déguster avec du pain de campagne"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Fondant au chocolat",
-    "slug": "fondant-au-chocolat",
-    "thumbnail": "https://images.pexels.com/photos/132694/pexels-photo-132694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "author": "Marie Massart",
-    "difficulty": "Facile",
-    "description": "Pour 4 personnes",
-    "ingredients": [
-      {
-        "id": 7,
+        "id": 37,
         "quantity": 200,
         "unit": "g",
-        "name": "de chocolat noir"
+        "name": "chocolat noir"
       },
       {
-        "id": 12,
+        "id": 38,
         "quantity": 125,
         "unit": "g",
-        "name": "de sucre"
+        "name": "sucre"
       },
       {
-        "id": 123,
-        "quantity": 100,
+        "id": 39,
+        "quantity": 150,
         "unit": "g",
-        "name": "de beurre"
+        "name": "beurre"
       },
       {
-        "id": 962,
-        "quantity": 50,
+        "id": 40,
+        "quantity": 70,
         "unit": "g",
-        "name": "de farine"
+        "name": "fécule de maïs"
       },
       {
-        "id": 73,
+        "id": 41,
         "quantity": 3,
         "unit": "",
         "name": "oeufs"
       }
     ],
     "instructions": [
-      "Faire fondre le beurre et le chocolat ensemble",
+      "Faites fondre le chocolat et le beurre ensemble",
       "Battre les oeufs et le sucre",
       "Incorporer le chocolat fondu",
-      "Ajouter la farine en mélangeant bien",
-      "Beurrer un moule",
-      "Cuire 15 minutes à 200°C"
+      "Ajouter la fécule de maïs en mélangeant bien",
+      "Versez dans un moule beurré.",
+      "Enfournez à 180°C pour 20 minutes de cuisson."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tarte banoffee",
+    "slug": "tarte-banoffee",
+    "thumbnail": "https://www.sunny-delices.fr/wp-content/uploads/2020/04/banoffee-sans-gluten-1-680x453.jpg",
+    "author": "Soso",
+    "difficulty": "Facile",
+    "description": "Pour 6 personnes",
+    "ingredients": [
+      {
+        "id": 42,
+        "quantity": 1,
+        "unit": "",
+        "name": "pâte sablée"
+      },
+      {
+        "id": 43,
+        "quantity": 3,
+        "unit": "",
+        "name": "banane"
+      },
+      {
+        "id": 44,
+        "quantity": 160,
+        "unit": "g",
+        "name": "sucre en poudre"
+      },
+      {
+        "id": 45,
+        "quantity": 130,
+        "unit": "g",
+        "name": "crème liquide pour le caramel"
+      },
+      {
+        "id": 46,
+        "quantity": 120,
+        "unit": "g",
+        "name": "beurre demi-sel"
+      },
+      {
+        "id": 47,
+        "quantity": 300,
+        "unit": "g",
+        "name": "crème liquide pour la chantilly"
+      },
+      {
+        "id": 48,
+        "quantity": 150,
+        "unit": "",
+        "name": "mascarpone"
+      },
+      {
+        "id": 49,
+        "quantity": 60,
+        "unit": "",
+        "name": "sucre glace"
+      },
+      {
+        "id": 50,
+        "quantity": 1,
+        "unit": "gousse",
+        "name": "vanille"
+      }
+    ],
+    "instructions": [
+      "Pour le caramel, faites chauffer le sucre à feu moyen jusqu’à l’obtention d’un caramel",
+      "Ajoutez la crème chaude sur le caramel en mélangeant energiquement.",
+      "Incorporez le beurre coupé en morceau",
+      "Pour la chantilly, fouettez dans un récipient bien froid la crème, la mascarpone et le sucre glace.",
+      "Etalez la pate à tarte, foncez un moule et faites cuire à blanc 25 minutes à 170°C.",
+      "Couvrez le fond de tarte de tranches de banane.",
+      "Recouvrez de caramel.",
+      "Pochez la chantillly mascarpone."
     ]
   }
 ]
